@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Que-1. Total number of Airports in Madhya Pradesh are",
+        "opstion": [
+            "(A) Three",
+            "(B) Four",
+            " (C) Five",
+            " (D) Six"
+        ],
+        "correctAns": 2
+    },
+    {
+        "question": "Que-2. Total number of districts in Madhya Pradesh are ",
+        "opstion": [
+            50,
+            51,
+            49,
+            39
+        ],
+        "correctAns": 1
+    },
+    {
+        "question": "Que-3. Where is the only Ladies Jail situated in M.P.?",
+        "opstion": [
+            "Nersinghpur",
+            "Hoshangabad",
+            "Betul",
+            "Dhar "
+        ],
+        "correctAns": 1
+    },
+    {
+        "question": "Que-4. The population density of Madhya Pradesh is",
+        "opstion": [
+            "236 per sq.km",
+            "136 per sq.km",
+            "263 per sq.km",
+            "326 per sq.km"
+        ],
+        "correctAns": 0
+    }
+]
